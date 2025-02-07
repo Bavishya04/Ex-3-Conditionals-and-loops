@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn7$ gcc -o ch ch.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn7$ ./ch
+Enter a character: @
+Special Character.
+
