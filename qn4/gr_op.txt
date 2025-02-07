@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn4$ gcc -o gr gr.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn4$ ./gr
+Enter your marks:67
+Grade:Fail
+
