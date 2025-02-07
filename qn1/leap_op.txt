@@ -1,0 +1,4 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn1$ gcc -o leap leap.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn1$ ./leap
+Enter the year:2028
+Leap Year
