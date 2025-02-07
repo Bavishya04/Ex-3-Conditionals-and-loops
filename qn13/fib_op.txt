@@ -1,0 +1,4 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn13$ gcc -o fib fib.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn13$ ./fib
+Enter the number of terms: 13
+Fibonacci Series: 0 1 1 2 3 5 8 13
