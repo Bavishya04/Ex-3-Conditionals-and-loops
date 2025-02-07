@@ -1,4 +1,0 @@
-auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn2$ gcc -o pn pn.c
-auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn2$ ./pn
-Enter a number:56
-56 is greater
