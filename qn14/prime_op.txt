@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn14$ gcc -o prime prime.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn14$ ./prime
+Enter a number: 7
+7 is a prime number.
+
