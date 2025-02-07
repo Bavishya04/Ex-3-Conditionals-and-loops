@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn10$ gcc -o fact fact.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn10$ ./fact
+Enter a number: 4
+Factorial of 4 is 24
+
