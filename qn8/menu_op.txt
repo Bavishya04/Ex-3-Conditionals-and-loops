@@ -1,0 +1,10 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn8$ gcc -o menu menu.c -lm
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn8$ ./menu
+Choose an operation:
+1. Square
+2. Cube
+3. Square Root
+Enter your choice: 3
+Enter a number: 64
+The square root of 64.00 is 8.00
+
