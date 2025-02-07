@@ -1,0 +1,6 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn5$ gcc -o cal cal.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn5$ ./cal
+Enter n1:6
+Enter n2:7
+Enter op:+
+Result:13
