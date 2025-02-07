@@ -1,0 +1,5 @@
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn6$ gcc -o day day.c
+auist@TF076:~/Documents/r2024115033/Ex3 31-01-25/qn6$ ./day
+Enter a day number (1-7): 8
+Invalid day number! Please enter a number between 1 and 7.
+
